@@ -1,4 +1,4 @@
-# Shooon Blog
+# SHooon Blog
 
 モダンでシンプル、読みやすい個人ブログサイト
 
@@ -58,5 +58,5 @@ pnpm preview
 
 ## ライセンス
 
-© 2025 Shooon Blog. All rights reserved.
+© 2025 SHooon Blog. All rights reserved.
 
